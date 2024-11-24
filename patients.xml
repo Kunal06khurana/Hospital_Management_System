@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Patients>
+                    
+    
+    
+    
+    <Patient>
+                                        
+        
+        
+        
+        <Name>Sankalp</Name>
+                                        
+        
+        
+        
+        <Age>18</Age>
+                                        
+        
+        
+        
+        <Contact>123123123</Contact>
+                                        
+        
+        
+        
+        <Disease>dfsdfsdf</Disease>
+                                    
+    
+    
+    
+    </Patient>
+                
+    
+    
+    
+    <Patient>
+                                
+        
+        
+        <Name>asdasds</Name>
+                                
+        
+        
+        <Age>sdffsdf</Age>
+                                
+        
+        
+        <Contact>asdas</Contact>
+                                
+        
+        
+        <Disease>dsfsdf</Disease>
+                                
+        
+        
+        <Username>user2</Username>
+                            
+    
+    
+    </Patient>
+            
+    
+    
+    <Patient>
+                        
+        
+        <Name>asdsad</Name>
+                        
+        
+        <Age>sdsd</Age>
+                        
+        
+        <Contact>sdsdf</Contact>
+                        
+        
+        <Disease>adsads</Disease>
+                        
+        
+        <Username>user2</Username>
+                    
+    
+    </Patient>
+        
+    
+    <Patient>
+                
+        <Name>asd</Name>
+                
+        <Age>sdf</Age>
+                
+        <Contact>sdf</Contact>
+                
+        <Disease>sdf</Disease>
+                
+        <Username>user2</Username>
+            
+    </Patient>
+    
+    <Patient>
+        <Name>dfsdsdf</Name>
+        <Age>sdfsdf</Age>
+        <Contact>sdfsdf</Contact>
+        <Disease>sdfsdf</Disease>
+        <Username>user2</Username>
+    </Patient>
+</Patients>

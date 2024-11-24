@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Users>
+                    
+    
+    
+    
+    <User>
+                        
+        
+        <Username>asdasd</Username>
+                        
+        
+        <Password>asdasd</Password>
+                    
+    
+    </User>
+                
+    
+    
+    
+    <User>
+                                
+        
+        
+        <Username>user1</Username>
+                                
+        
+        
+        <Password>1234</Password>
+                            
+    
+    
+    </User>
+            
+    
+    
+    <User>
+                        
+        
+        <Username>user2</Username>
+                        
+        
+        <Password>1111</Password>
+                    
+    
+    </User>
+        
+    
+    <User>
+                
+        <Username>user3</Username>
+                
+        <Password>2222</Password>
+            
+    </User>
+    
+    <User>
+        <Username>user4</Username>
+        <Password>3333</Password>
+    </User>
+</Users>

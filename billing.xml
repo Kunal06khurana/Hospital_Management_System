@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Bills>
+                            
+    
+    
+    
+    
+    
+    <Bill>
+                                                        
+        
+        
+        
+        
+        
+        <PatientID>user1</PatientID>
+                                                        
+        
+        
+        
+        
+        
+        <Amount>123123</Amount>
+                                                        
+        
+        
+        
+        
+        
+        <Date>12/23/12</Date>
+                                                    
+    
+    
+    
+    
+    
+    </Bill>
+                        
+    
+    
+    
+    
+    
+    <Bill>
+                                                
+        
+        
+        
+        
+        <PatientID>28389283</PatientID>
+                                                
+        
+        
+        
+        
+        <Amount>akjdhads</Amount>
+                                                
+        
+        
+        
+        
+        <Date>askdjhdfjkhsdf</Date>
+                                            
+    
+    
+    
+    
+    </Bill>
+                    
+    
+    
+    
+    
+    <Bill>
+                                        
+        
+        
+        
+        <Username>user2</Username>
+                                        
+        
+        
+        
+        <PatientID>adasd</PatientID>
+                                        
+        
+        
+        
+        <Amount>asdasd</Amount>
+                                        
+        
+        
+        
+        <Date>asdasd</Date>
+                                    
+    
+    
+    
+    </Bill>
+                
+    
+    
+    
+    <Bill>
+                                
+        
+        
+        <Username>user2</Username>
+                                
+        
+        
+        <PatientID>asdasd</PatientID>
+                                
+        
+        
+        <Amount>svxcv</Amount>
+                                
+        
+        
+        <Date>sdsdsdf</Date>
+                            
+    
+    
+    </Bill>
+            
+    
+    
+    <Bill>
+                        
+        
+        <Username>user3</Username>
+                        
+        
+        <PatientID>asdfsda</PatientID>
+                        
+        
+        <Amount>sdasd</Amount>
+                        
+        
+        <Date>sdfsdf</Date>
+                    
+    
+    </Bill>
+        
+    
+    <Bill>
+                
+        <Username>user2</Username>
+                
+        <PatientID>sdfsdf</PatientID>
+                
+        <Amount>sdfsdf</Amount>
+                
+        <Date>sdfsdf</Date>
+            
+    </Bill>
+    
+    <Bill>
+        <Username>user2</Username>
+        <PatientID>asddasd</PatientID>
+        <Amount>sdfsdf</Amount>
+        <Date>sdfsdf</Date>
+    </Bill>
+</Bills>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Appointments>
+                
+    
+    
+    <Appointment>
+                                
+        
+        
+        <Patient>adfsdf</Patient>
+                                
+        
+        
+        <Doctor>asdasd</Doctor>
+                                
+        
+        
+        <Date>afsdfsdf</Date>
+                            
+    
+    
+    </Appointment>
+            
+    
+    
+    <Appointment>
+                        
+        
+        <Username>user2</Username>
+                        
+        
+        <Patient>asdas</Patient>
+                        
+        
+        <Doctor>adsfsdf</Doctor>
+                        
+        
+        <Date>sdfsdf</Date>
+                    
+    
+    </Appointment>
+        
+    
+    <Appointment>
+                
+        <Username>user2</Username>
+                
+        <Patient>asdasd</Patient>
+                
+        <Doctor>sdfsdf</Doctor>
+                
+        <Date>asda</Date>
+            
+    </Appointment>
+    
+    <Appointment>
+        <Username>user2</Username>
+        <Patient>sdfsdfs</Patient>
+        <Doctor>sdfsdf</Doctor>
+        <Date>sdfsdf</Date>
+    </Appointment>
+</Appointments>

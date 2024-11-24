@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Bills>
+                    
+    
+    
+    
+    <Bill>
+                                        
+        
+        
+        
+        <Username>a</Username>
+                                        
+        
+        
+        
+        <Amount>234234</Amount>
+                                        
+        
+        
+        
+        <Date>sdfsdf</Date>
+                                    
+    
+    
+    
+    </Bill>
+                
+    
+    
+    
+    <Bill>
+                                
+        
+        
+        <Username>a</Username>
+                                
+        
+        
+        <PatientID>a</PatientID>
+                                
+        
+        
+        <Amount>5545858</Amount>
+                                
+        
+        
+        <Date>875432075</Date>
+                            
+    
+    
+    </Bill>
+            
+    
+    
+    <Bill>
+                        
+        
+        <Username>a</Username>
+                        
+        
+        <PatientID>a</PatientID>
+                        
+        
+        <Amount>iudwhb</Amount>
+                        
+        
+        <Date>bdhb</Date>
+                    
+    
+    </Bill>
+        
+    
+    <Bill>
+                
+        <Username>ab</Username>
+                
+        <PatientID>ab</PatientID>
+                
+        <Amount>65554</Amount>
+                
+        <Date>888</Date>
+            
+    </Bill>
+    
+    <Bill>
+        <Username>admin</Username>
+        <PatientID>admin</PatientID>
+        <Amount>sdfsdf</Amount>
+        <Date>sdsdf</Date>
+    </Bill>
+</Bills>

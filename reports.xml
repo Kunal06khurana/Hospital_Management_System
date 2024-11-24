@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Reports>
+        
+    <Report>
+                
+        <PatientID>123123</PatientID>
+                
+        <Details>1231231rwer</Details>
+            
+    </Report>
+    
+    <Report>
+        <PatientID>123</PatientID>
+        <Details>hgfyyjh</Details>
+    </Report>
+</Reports>
